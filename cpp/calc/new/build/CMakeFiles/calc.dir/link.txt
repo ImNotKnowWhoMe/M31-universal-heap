@@ -1,0 +1,1 @@
+/usr/bin/clang++ -Xlinker --dependency-file=CMakeFiles/calc.dir/link.d CMakeFiles/calc.dir/src/main.cpp.o CMakeFiles/calc.dir/src/calculate.cpp.o CMakeFiles/calc.dir/src/additional_math.cpp.o -o calc

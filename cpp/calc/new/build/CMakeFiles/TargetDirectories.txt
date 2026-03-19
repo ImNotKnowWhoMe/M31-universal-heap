@@ -1,0 +1,3 @@
+/home/marshall/universal/2/calc/new/build/CMakeFiles/calc.dir
+/home/marshall/universal/2/calc/new/build/CMakeFiles/edit_cache.dir
+/home/marshall/universal/2/calc/new/build/CMakeFiles/rebuild_cache.dir
